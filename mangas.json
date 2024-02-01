@@ -3,7 +3,7 @@
     "id": 1,
     "titulo": "One Piece",
     "sipnosis": "Monkey D. Luffy y su tripulación buscan el tesoro supremo, el One Piece.",
-    "img": "url_de_la_imagen_1.jpg",
+    "img": "https://m.media-amazon.com/images/I/71y+XnBXm4L._AC_UF1000,1000_QL80_.jpg",
     "generos": ["Aventura", "Acción", "Fantasía"],
     "cantidad_capitulos": 1000,
     "ano_inicio": 1997,
