@@ -81,12 +81,13 @@
     "id": 8,
     "titulo": "One Punch Man",
     "sipnosis": "Saitama, un héroe que puede derrotar a cualquier enemigo de un solo golpe, busca emoción en sus peleas.",
-    "img": "url_de_la_imagen_11.jpg",
+    "img": "https://somoskudasai.com/wp-content/uploads/2020/12/9784088824550.jpg",
     "generos": ["Acción", "Comedia", "Ciencia Ficción"],
     "cantidad_capitulos": 145,
     "ano_inicio": 2009,
     "ano_finalizacion": 2021,
-    "mangaka": "ONE"
+    "mangaka": "ONE",
+    "rank": 3
   },
   {
     "id": 9,
