@@ -51,12 +51,13 @@
     "id": 5,
     "titulo": "Hunter x Hunter",
     "sipnosis": "Gon Freecss busca encontrar a su padre y se convierte en un cazador de tesoros.",
-    "img": "url_de_la_imagen_7.jpg",
+    "img": "https://store.crunchyroll.com/on/demandware.static/-/Sites-crunchyroll-master-catalog/default/dw9eb17d4f/rightstuf/9781591167532_manga-Hunter-X-Hunter-Graphic-Novel-1-primary.jpg",
     "generos": ["Aventura", "Fantasía", "Acción"],
     "cantidad_capitulos": 390,
     "ano_inicio": 1998,
     "ano_finalizacion": 2018,
-    "mangaka": "Yoshihiro Togashi"
+    "mangaka": "Yoshihiro Togashi",
+    "rank": 5
   },
   {
     "id": 6,
