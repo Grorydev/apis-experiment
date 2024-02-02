@@ -15,34 +15,37 @@
     "id": 2,
     "titulo": "Fullmetal Alchemist",
     "sipnosis": "Dos hermanos buscan la Piedra Filosofal para restaurar sus cuerpos después de un intento de resurrección.",
-    "img": "url_de_la_imagen_2.jpg",
+    "img": "https://m.media-amazon.com/images/I/61GWN9NPJvL._AC_UF1000,1000_QL80_.jpg",
     "generos": ["Aventura", "Fantasía", "Drama"],
     "cantidad_capitulos": 116,
     "ano_inicio": 2001,
     "ano_finalizacion": 2010,
-    "mangaka": "Hiromu Arakawa"
+    "mangaka": "Hiromu Arakawa",
+    "rank": 2
   },
   {
     "id": 3,
     "titulo": "Death Note",
     "sipnosis": "Un estudiante encuentra un cuaderno que le permite matar a cualquier persona cuyo nombre escriba en él.",
-    "img": "url_de_la_imagen_3.jpg",
+    "img": "https://areajugones.sport.es/wp-content/uploads/2021/01/imagen-2021-01-27-105200.jpg",
     "generos": ["Misterio", "Psicológico", "Supernatural"],
     "cantidad_capitulos": 108,
     "ano_inicio": 2003,
     "ano_finalizacion": 2006,
-    "mangaka": "Tsugumi Ohba"
+    "mangaka": "Tsugumi Ohba",
+    "rank": 2
   },
   {
     "id": 4,
     "titulo": "Bleach",
     "sipnosis": "Ichigo Kurosaki adquiere poderes de un shinigami y debe proteger a los vivos de los espíritus malignos.",
-    "img": "url_de_la_imagen_5.jpg",
+    "img": "https://cdnx.jumpseller.com/shazam-online/image/31064301/bleach_remix_01.jpg?1674239314",
     "generos": ["Acción", "Supernatural", "Drama"],
     "cantidad_capitulos": 686,
     "ano_inicio": 2001,
     "ano_finalizacion": 2016,
-    "mangaka": "Tite Kubo"
+    "mangaka": "Tite Kubo",
+    "rank": 5
   },
   {
     "id": 5,
@@ -59,23 +62,25 @@
     "id": 6,
     "titulo": "Demon Slayer: Kimetsu no Yaiba",
     "sipnosis": "Tanjiro Kamado busca vengar a su familia y proteger a su hermana convertida en demonio.",
-    "img": "url_de_la_imagen_9.jpg",
+    "img": "https://m.media-amazon.com/images/I/81ZNkhqRvVL._AC_UF1000,1000_QL80_.jpg",
     "generos": ["Acción", "Drama", "Fantasía"],
     "cantidad_capitulos": 205,
     "ano_inicio": 2016,
     "ano_finalizacion": 2020,
-    "mangaka": "Koyoharu Gotouge"
+    "mangaka": "Koyoharu Gotouge",
+    "rank": 5
   },
   {
     "id": 7,
     "titulo": "My Hero Academia",
     "sipnosis": "Izuku Midoriya busca convertirse en el héroe número uno en un mundo lleno de superpoderes.",
-    "img": "url_de_la_imagen_10.jpg",
+    "img": "https://4.bp.blogspot.com/-jHzc-86X22w/WqRIF16C1cI/AAAAAAAACfw/5X3CkvOROBkGYwg6PQsGb59CmD2xSLo8wCLcBGAs/s1600/my-hero-academia-n-01_kohei-horikoshi_201607081116.jpg",
     "generos": ["Acción", "Aventura", "Fantasía"],
     "cantidad_capitulos": 342,
     "ano_inicio": 2014,
     "ano_finalizacion": 2022,
-    "mangaka": "Kohei Horikoshi"
+    "mangaka": "Kohei Horikoshi",
+    "rank": 5
   },
   {
     "id": 8,
@@ -87,149 +92,162 @@
     "ano_inicio": 2009,
     "ano_finalizacion": 2021,
     "mangaka": "ONE",
-    "rank": 3
+    "rank": 5
   },
   {
     "id": 9,
     "titulo": "My Youth Romantic Comedy Is Wrong, As I Expected",
     "sipnosis": "Hachiman Hikigaya, un estudiante cínico, se une al club de servicio para resolver problemas estudiantiles.",
-    "img": "url_de_la_imagen_12.jpg",
+    "img": "https://store.crunchyroll.com/on/demandware.static/-/Sites-crunchyroll-master-catalog/default/dwa99773bf/rightstuf/9781975339630_manga-my-youth-romantic-comedy-is-wrong-as-i-expected-manga-volume-17-primary.jpg",
     "generos": ["Comedia Romántica", "Drama", "Slice of Life"],
     "cantidad_capitulos": 138,
     "ano_inicio": 2011,
     "ano_finalizacion": 2019,
-    "mangaka": "Wataru Watari"
+    "mangaka": "Wataru Watari",
+    "rank": 3
   },
   {
     "id": 10,
     "titulo": "Steins;Gate",
     "sipnosis": "Okabe Rintarou descubre cómo enviar mensajes al pasado y desencadena una serie de eventos inesperados.",
-    "img": "url_de_la_imagen_13.jpg",
+    "img": "https://ramenparados.com/wp-content/uploads/2020/01/steins-gate-0-manga-4.jpg",
     "generos": ["Ciencia Ficción", "Thriller", "Viajes en el Tiempo"],
     "cantidad_capitulos": 26,
     "ano_inicio": 2009,
     "ano_finalizacion": 2010,
-    "mangaka": "Kenji Mizuta"
+    "mangaka": "Kenji Mizuta",
+    "rank": 2
   },
   {
     "id": 11,
     "titulo": "Vinland Saga",
     "sipnosis": "Thorfinn busca venganza en la época de los vikingos por la muerte de su padre.",
-    "img": "url_de_la_imagen_14.jpg",
+    "img": "https://static.wikia.nocookie.net/vinlandsaga/images/3/3a/Volumen_1.png/revision/latest?cb=20190728085410&path-prefix=es",
     "generos": ["Acción", "Historia", "Drama"],
     "cantidad_capitulos": 176,
     "ano_inicio": 2005,
     "ano_finalizacion": 2019,
-    "mangaka": "Makoto Yukimura"
+    "mangaka": "Makoto Yukimura",
+    "rank": 1
   },
   {
     "id": 12,
     "titulo": "Jujutsu Kaisen",
     "sipnosis": "Yuji Itadori se une a una escuela de jujutsu para combatir maldiciones y salvar a sus amigos.",
-    "img": "url_de_la_imagen_15.jpg",
+    "img": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/0/0e/Volume_1.png",
     "generos": ["Acción", "Supernatural", "Horror"],
     "cantidad_capitulos": 204,
     "ano_inicio": 2018,
     "ano_finalizacion": 2023,
-    "mangaka": "Gege Akutami"
+    "mangaka": "Gege Akutami",
+    "rank": 5
   },
   {
     "id": 13,
     "titulo": "Re:Zero - Starting Life in Another World",
     "sipnosis": "Subaru Natsuki es transportado a otro mundo y descubre que tiene la habilidad de regresar en el tiempo al morir.",
-    "img": "url_de_la_imagen_16.jpg",
+    "img": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/81uV+kAo0aL._SL1500_.jpg",
     "generos": ["Fantasía", "Drama", "Romance"],
     "cantidad_capitulos": 140,
     "ano_inicio": 2014,
     "ano_finalizacion": 2022,
-    "mangaka": "Tappei Nagatsuki"
+    "mangaka": "Tappei Nagatsuki",
+    "rank": 3
   },
   {
     "id": 14,
     "titulo": "Black Clover",
     "sipnosis": "Asta, un joven sin magia, busca convertirse en el Rey Mago y proteger su reino.",
-    "img": "url_de_la_imagen_17.jpg",
+    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKRySLJ1N4je16ozXFmkqT94Ikj7wzORUaDH4tiPVhkCCwfT1jWg9xpXvkXMTW6J6NcUo6fRSMIPc2NmIXNxyLQxcb30JHu3cerf_6E-rXq0FDdjTzT_8jiT8bYu4Xl6plAXJJj--nUrBMWTq7YiQMtqRdDfOHJ73G53CXqsJYrJwtPZDbc18i9eViug/s1200/97840831954.jpg",
     "generos": ["Acción", "Fantasía", "Magia"],
     "cantidad_capitulos": 333,
     "ano_inicio": 2015,
     "ano_finalizacion": 2022,
-    "mangaka": "Yūki Tabata"
+    "mangaka": "Yūki Tabata",
+    "rank": 5
   },
   {
     "id": 15,
     "titulo": "Haikyuu!!",
     "sipnosis": "Shoyo Hinata se une al equipo de voleibol y busca derrotar a equipos poderosos.",
-    "img": "url_de_la_imagen_18.jpg",
+    "img": "https://somoskudasai.com/wp-content/uploads/2020/10/Elfm9IEXgAMq6t8.jpg",
     "generos": ["Deportes", "Comedia", "Drama"],
     "cantidad_capitulos": 402,
     "ano_inicio": 2012,
     "ano_finalizacion": 2020,
-    "mangaka": "Haruichi Furudate"
+    "mangaka": "Haruichi Furudate",
+    "rank": 5
   },
   {
     "id": 16,
     "titulo": "The Promised Neverland",
     "sipnosis": "Emma y sus amigos descubren que su orfanato es en realidad una granja para demonios.",
-    "img": "url_de_la_imagen_19.jpg",
+    "img": "https://www.normaeditorial.com/upload/media/albumes/0001/16/0b9f9bb937b6e05b4a28455daf40d0628d576d2c.jpeg",
     "generos": ["Misterio", "Thriller", "Horror"],
     "cantidad_capitulos": 181,
     "ano_inicio": 2016,
     "ano_finalizacion": 2020,
-    "mangaka": "Kaiu Shirai"
+    "mangaka": "Kaiu Shirai",
+    "rank": 2
   },
   {
     "id": 17,
     "titulo": "Attack on Titan",
     "sipnosis": "La humanidad lucha por sobrevivir contra enormes titanes devoradores de humanos.",
-    "img": "url_de_la_imagen_21.jpg",
+    "img": "https://omgjapan.com/cdn/shop/products/81bipUCkKrL_1400x.jpg",
     "generos": ["Acción", "Drama", "Fantasía"],
     "cantidad_capitulos": 139,
     "ano_inicio": 2009,
     "ano_finalizacion": 2021,
-    "mangaka": "Hajime Isayama"
+    "mangaka": "Hajime Isayama",
+    "rank": 1
   },
   {
     "id": 18,
     "titulo": "Tokyo Ghoul",
     "sipnosis": "Kaneki Ken, convertido en mitad ghoul, debe adaptarse a su nueva vida y enfrentarse a amenazas sobrenaturales.",
-    "img": "url_de_la_imagen_24.jpg",
+    "img": "https://1.bp.blogspot.com/-EHdRT9w8x1I/XZAaq_-eDpI/AAAAAAAALhM/6gv2s6eR284IDVxnjIhwIJtitlcULllfQCLcBGAsYHQ/s1600/tokyo%2Bghoul%2Bcover.jpg",
     "generos": ["Horror", "Acción", "Misterio"],
     "cantidad_capitulos": 144,
     "ano_inicio": 2011,
     "ano_finalizacion": 2014,
-    "mangaka": "Sui Ishida"
+    "mangaka": "Sui Ishida",
+    "rank": 5
   },
   {
     "id": 19,
     "titulo": "Naruto",
     "sipnosis": "Naruto Uzumaki busca ser reconocido como el ninja más fuerte y ser el líder de su aldea.",
-    "img": "url_de_la_imagen_27.jpg",
+    "img": "https://proassetspdlcom.cdnstatics2.com/usuaris/libros/fotos/208/original/portada_naruto-n-7272_masashi-kishimoto_201512241132.jpg",
     "generos": ["Acción", "Aventura", "Fantasía"],
     "cantidad_capitulos": 700,
     "ano_inicio": 1999,
     "ano_finalizacion": 2014,
-    "mangaka": "Masashi Kishimoto"
+    "mangaka": "Masashi Kishimoto",
+    "rank": 5
   },
   {
     "id": 20,
     "titulo": "Neon Genesis Evangelion",
     "sipnosis": "Un grupo de adolescentes pilotea gigantes mechas para proteger la Tierra de criaturas misteriosas.",
-    "img": "url_de_la_imagen_28.jpg",
+    "img": "https://www.normaeditorial.com/upload/media/albumes/0001/22/d62f85a69f7fe1ddb3ceb9d9c385ba56229e6c20.jpeg",
     "generos": ["Mecha", "Psicológico", "Drama"],
     "cantidad_capitulos": 94,
     "ano_inicio": 1994,
     "ano_finalizacion": 2013,
-    "mangaka": "Yoshiyuki Tomino"
+    "mangaka": "Yoshiyuki Tomino",
+    "rank": 1
   },
   {
     "id": 21,
     "titulo": "Cowboy Bebop",
     "sipnosis": "Spike Spiegel y su equipo cazan criminales en el espacio mientras lidian con su pasado.",
-    "img": "url_de_la_imagen_29.jpg",
+    "img": "https://pics.filmaffinity.com/Cowboy_Bebop_Serie_de_TV-232118024-large.jpg",
     "generos": ["Ciencia Ficción", "Acción", "Noir"],
     "cantidad_capitulos": 26,
     "ano_inicio": 1997,
     "ano_finalizacion": 1998,
-    "mangaka": "Hajime Yatate"
+    "mangaka": "Hajime Yatate",
+    "rank": 3
   }
 ]
